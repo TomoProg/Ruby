@@ -1,2 +1,2 @@
-# ruby
-rubyで作ったプログラム
+# Ruby
+Rubyで作ったプログラム
